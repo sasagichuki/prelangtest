@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clientname: MyString
+  paid: false
+
+two:
+  clientname: MyString
+  paid: false

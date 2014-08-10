@@ -1,4 +1,5 @@
 ActiveAdmin.register DeathNotice do
+  permit_params :title, :dateofdeath, :dateofburial, :clientname
 
 
   # See permitted parameters documentation:
